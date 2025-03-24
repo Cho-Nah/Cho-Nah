@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🦇 The Bugman 🦇
 
-<!--
-**Cho-Nah/Cho-Nah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9sYno3bWkyanoxYXc1cmt4ZmY1a3prYWx6dGk3NndnaHI0emszMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3SYKzhmod1IY/giphy.gif" width="600" height="250">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦇 The Dark Dev Stats 🦇
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mafiozich&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafiozich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
